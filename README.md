@@ -13,7 +13,6 @@ Each commit represents a standalone algorithm or solution. To explore individual
 - Click a commit to view the code snapshot.
 
 ## 🤝 Contributing
-
 This repository is primarily for personal learning, but feel free to fork or suggest improvements through pull requests.
 
 ## 👨‍💻 Author
